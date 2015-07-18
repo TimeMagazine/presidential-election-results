@@ -1,0 +1,29 @@
+{
+  "name": "presidential-election-results",
+  "version": "0.0.1",
+  "description": "Equivalent to our congressional-election-results repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeMagazine/presidential-election-results.git"
+  },
+  "keywords": [
+    "elections",
+    "FEC",
+    "presidential"
+  ],
+  "author": "Chris Wilson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeMagazine/presidential-election-results/issues"
+  },
+  "homepage": "https://github.com/TimeMagazine/presidential-election-results#readme",
+  "dependencies": {
+    "excel-to-clean-json": "0.0.1",
+    "fast-csv": "^0.6.0",
+    "minimist": "^1.1.1"
+  }
+}

@@ -1,0 +1,464 @@
+id,year,name,abbr,state,votes,parties
+2012_AL,2012,"Romney, Mitt",AL,Alabama,1255925,Republican
+2012_AL,2012,"Obama, Barack",AL,Alabama,795696,Democratic
+2012_AL,2012,"Johnson, Gary",AL,Alabama,12328,Independent
+2012_AL,2012,"Stein, Jill",AL,Alabama,3397,Independent
+2012_AL,2012,"Goode, Virgil H., Jr.",AL,Alabama,2981,Independent
+2012_AK,2012,"Romney, Mitt",AK,Alaska,164676,Republican
+2012_AK,2012,"Obama, Barack",AK,Alaska,122640,Democratic
+2012_AK,2012,"Johnson, Gary",AK,Alaska,7392,Libertarian
+2012_AK,2012,"Stein, Jill",AK,Alaska,2917,Green
+2012_AZ,2012,"Romney, Mitt",AZ,Arizona,1233654,Republican
+2012_AZ,2012,"Obama, Barack",AZ,Arizona,1025232,Democratic
+2012_AZ,2012,"Johnson, Gary",AZ,Arizona,32100,Libertarian
+2012_AZ,2012,"Stein, Jill",AZ,Arizona,7816,Green
+2012_AZ,2012,"Goode, Virgil",AZ,Arizona,289,Write-In
+2012_AZ,2012,"Anderson, Ross C. ""Rocky""",AZ,Arizona,119,Write-In
+2012_AZ,2012,"Reed, Jill",AZ,Arizona,17,Write-In
+2012_AZ,2012,"Christensen, Will",AZ,Arizona,14,Write-In
+2012_AZ,2012,"Knill, Dennis",AZ,Arizona,7,Write-In
+2012_AZ,2012,"Tittle, Sheila ""Samm""",AZ,Arizona,6,Write-In
+2012_AR,2012,"Romney, Mitt",AR,Arkansas,647744,Republican
+2012_AR,2012,"Obama, Barack",AR,Arkansas,394409,Democratic
+2012_AR,2012,"Johnson, Gary",AR,Arkansas,16276,Libertarian
+2012_AR,2012,"Stein, Jill",AR,Arkansas,9305,Green
+2012_AR,2012,"Lindsay, Peta",AR,Arkansas,1734,Socialism and Liberation Party
+2012_CA,2012,"Obama, Barack",CA,California,7854285,Democratic
+2012_CA,2012,"Romney, Mitt",CA,California,4839958,Republican
+2012_CA,2012,"Johnson, Gary",CA,California,143221,Libertarian
+2012_CA,2012,"Stein, Jill",CA,California,85638,Green
+2012_CA,2012,"Barr, Roseanne",CA,California,53824,Peace and Freedom
+2012_CA,2012,"Hoefling, Thomas",CA,California,38372,American Independent
+2012_CA,2012,"Paul, Ron",CA,California,21461,Write-In
+2012_CA,2012,"Anderson, Ross C. ""Rocky""",CA,California,992,Write-In
+2012_CA,2012,"Goode, Virgil",CA,California,503,Write-In
+2012_CA,2012,"Alexander, Stewart",CA,California,82,Write-In
+2012_CA,2012,"White, Jerry",CA,California,79,Write-In
+2012_CA,2012,"Harris, James",CA,California,72,Write-In
+2012_CA,2012,"Durham, Stephen",CA,California,54,Write-In
+2012_CA,2012,"Tittle, Sheila ""Samm""",CA,California,6,Write-In
+2012_CO,2012,"Obama, Barack",CO,Colorado,1323102,Democratic
+2012_CO,2012,"Romney, Mitt",CO,Colorado,1185243,Republican
+2012_CO,2012,"Johnson, Gary",CO,Colorado,35545,Libertarian
+2012_CO,2012,"Stein, Jill",CO,Colorado,7508,Green
+2012_CO,2012,"Goode, Virgil H., Jr.",CO,Colorado,6234,American Constitution Party
+2012_CO,2012,"Barr, Roseanne",CO,Colorado,5059,Peace and Freedom
+2012_CO,2012,"Reed, Jill",CO,Colorado,2589,Unaffiliated
+2012_CO,2012,"Anderson, Ross C. ""Rocky""",CO,Colorado,1260,Justice Party
+2012_CO,2012,"Tittle, Sheila 'Samm'",CO,Colorado,792,We the People
+2012_CO,2012,"Hoefling, Tom",CO,Colorado,679,America’s Party
+2012_CO,2012,"La Riva, Gloria",CO,Colorado,317,Socialism and Liberation Party
+2012_CO,2012,"Alexander, Stewart",CO,Colorado,308,Socialist Party USA
+2012_CO,2012,"Miller, Merlin",CO,Colorado,266,American Third Position
+2012_CO,2012,"Stevens, Thomas Robert",CO,Colorado,235,Objectivist Party
+2012_CO,2012,"Harris, James",CO,Colorado,192,Socialist Workers Party
+2012_CO,2012,"White, Jerry",CO,Colorado,189,Socialist Equality Party
+2012_CO,2012,"Terry, Randall",CO,Colorado,4,Write-In
+2012_CT,2012,"Obama, Barack",CT,Connecticut,905083,Democratic
+2012_CT,2012,"Romney, Mitt",CT,Connecticut,634892,Republican
+2012_CT,2012,"Johnson, Gary",CT,Connecticut,12580,Libertarian
+2012_CT,2012,"Anderson, Ross C. ""Rocky""",CT,Connecticut,5487,Independent Party
+2012_CT,2012,"Stein, Jill",CT,Connecticut,863,Write-In
+2012_CT,2012,"Hoefling, Tom",CT,Connecticut,25,Write-In
+2012_CT,2012,"Warner, Gerald",CT,Connecticut,19,Write-In
+2012_CT,2012,"Harris, James E.",CT,Connecticut,5,Write-In
+2012_CT,2012,"Sizemore, Raymond",CT,Connecticut,5,Write-In
+2012_CT,2012,"Durham, Stephen",CT,Connecticut,1,Write-In
+2012_DE,2012,"Obama, Barack",DE,Delaware,242584,Democratic
+2012_DE,2012,"Romney, Mitt",DE,Delaware,165484,Republican
+2012_DE,2012,"Johnson, Gary",DE,Delaware,3882,Libertarian
+2012_DE,2012,"Stein, Jill",DE,Delaware,1940,Green
+2012_DE,2012,"Goode, Virgil",DE,Delaware,23,Write-In
+2012_DE,2012,"Hoefling, Tom",DE,Delaware,7,Write-In
+2012_DE,2012,"Reed, Jill",DE,Delaware,1,Write-In
+2012_DC,2012,"Obama, Barack",DC,District of Columbia,267070,Democratic
+2012_DC,2012,"Romney, Mitt",DC,District of Columbia,21381,Republican
+2012_DC,2012,"Stein, Jill",DC,District of Columbia,2458,D.C. Statehood Green
+2012_DC,2012,"Johnson, Gary",DC,District of Columbia,2083,Libertarian
+2012_FL,2012,"Obama, Barack",FL,Florida,4237756,Democratic
+2012_FL,2012,"Romney, Mitt",FL,Florida,4163447,Republican
+2012_FL,2012,"Johnson, Gary",FL,Florida,44726,Libertarian Party of Florida
+2012_FL,2012,"Stein, Jill",FL,Florida,8947,Green Party of Florida
+2012_FL,2012,"Barr, Roseanne",FL,Florida,8154,Peace and Freedom Party of Florida
+2012_FL,2012,"Stevens, Thomas Robert",FL,Florida,3856,Objectivist Party of Florida
+2012_FL,2012,"Goode, Virgil H., Jr.",FL,Florida,2607,Constitution Party of Florida
+2012_FL,2012,"Anderson, Ross C. ""Rocky""",FL,Florida,1754,Justice Party of Florida
+2012_FL,2012,"Hoefling, Tom",FL,Florida,946,America’s Party of Florida
+2012_FL,2012,"Barnett, Andre",FL,Florida,820,Reform
+2012_FL,2012,"Alexander, Stewart",FL,Florida,799,Socialist Party of Florida
+2012_FL,2012,"Lindsay, Peta",FL,Florida,322,Party for Socialism and Liberation - Florida
+2012_FL,2012,"Reed, Jill",FL,Florida,36,Write-In
+2012_FL,2012,"Duncan, Richard",FL,Florida,3,Write-In
+2012_FL,2012,"Durham, Stephen G.",FL,Florida,3,Write-In
+2012_FL,2012,"Magee, Erin Kent",FL,Florida,2,Write-In
+2012_FL,2012,"Coniglio, Andrew Charles",FL,Florida,1,Write-In
+2012_GA,2012,"Romney, Mitt",GA,Georgia,2078688,Republican
+2012_GA,2012,"Obama, Barack",GA,Georgia,1773827,Democratic
+2012_GA,2012,"Johnson, Gary",GA,Georgia,45324,Libertarian
+2012_GA,2012,"Stein, Jill",GA,Georgia,1516,Write-In
+2012_GA,2012,"Goode, Virgil",GA,Georgia,432,Write-In
+2012_GA,2012,"Anderson, Ross C. ""Rocky""",GA,Georgia,154,Write-In
+2012_GA,2012,"Hykes, Darrell",GA,Georgia,55,Write-In
+2012_GA,2012,"Reid, Jill",GA,Georgia,30,Write-In
+2012_GA,2012,"Harris, James",GA,Georgia,21,Write-In
+2012_GA,2012,"Byrne, David C.",GA,Georgia,2,Write-In
+2012_GA,2012,"Magee, Erin Kent",GA,Georgia,1,Write-In
+2012_HI,2012,"Obama, Barack",HI,Hawaii,306658,Democratic
+2012_HI,2012,"Romney, Mitt",HI,Hawaii,121015,Republican
+2012_HI,2012,"Johnson, Gary",HI,Hawaii,3840,Libertarian
+2012_HI,2012,"Stein, Jill",HI,Hawaii,3184,Green
+2012_ID,2012,"Romney, Mitt",ID,Idaho,420911,Republican
+2012_ID,2012,"Obama, Barack",ID,Idaho,212787,Democratic
+2012_ID,2012,"Johnson, Gary",ID,Idaho,9453,Libertarian
+2012_ID,2012,"Stein, Jill",ID,Idaho,4402,Independent
+2012_ID,2012,"Anderson, Ross C. ""Rocky""",ID,Idaho,2499,Independent
+2012_ID,2012,"Goode, Virgil H.",ID,Idaho,2222,Constitution
+2012_IL,2012,"Obama, Barack",IL,Illinois,3019512,Democratic
+2012_IL,2012,"Romney, Mitt",IL,Illinois,2135216,Republican
+2012_IL,2012,"Johnson, Gary",IL,Illinois,56229,Libertarian
+2012_IL,2012,"Stein, Jill",IL,Illinois,30222,Green
+2012_IL,2012,"Goode, Virgil / Clymer, Jim",IL,Illinois,233,Write-In
+2012_IL,2012,"Anderson, Ross C. ""Rocky""",IL,Illinois,185,Write-In
+2012_IL,2012,"Goode, Virgil",IL,Illinois,182,Write-In
+2012_IL,2012,"Reed, Jill",IL,Illinois,121,Write-In
+2012_IL,2012,"Hoefling, Tom",IL,Illinois,22,Write-In
+2012_IL,2012,"Hawkins, Michael",IL,Illinois,16,Write-In
+2012_IL,2012,"Cary, Tom",IL,Illinois,14,Write-In
+2012_IL,2012,"Reed, Jill / Cary, Tom",IL,Illinois,10,Write-In
+2012_IL,2012,"White, Jerry",IL,Illinois,8,Write-In
+2012_IL,2012,"Roth, Cecil",IL,Illinois,5,Write-In
+2012_IL,2012,"Scherrer, Phyllis",IL,Illinois,5,Write-In
+2012_IL,2012,"Clymer, Jim",IL,Illinois,4,Write-In
+2012_IL,2012,"Prokopich, Barbara",IL,Illinois,4,Write-In
+2012_IL,2012,"White, Jerry / Scherrer, Phyllis",IL,Illinois,4,Write-In
+2012_IL,2012,"Hoefling, Tom / Ellis, Jonathan",IL,Illinois,3,Write-In
+2012_IL,2012,"Knill, Dennis",IL,Illinois,3,Write-In
+2012_IL,2012,"Tyree, Roy Wayne",IL,Illinois,3,Write-In
+2012_IL,2012,"Chehade, Paul",IL,Illinois,2,Write-In
+2012_IL,2012,"Chehade, Paul / McAllister, Steve",IL,Illinois,2,Write-In
+2012_IL,2012,"Durham, Stephen / Lopez, Christina",IL,Illinois,2,Write-In
+2012_IL,2012,"Maxwell, Lynn",IL,Illinois,2,Write-In
+2012_IL,2012,"Struck, James T.",IL,Illinois,2,Write-In
+2012_IL,2012,"Durham, Stephen",IL,Illinois,1,Write-In
+2012_IL,2012,"Ellis, Jonathan",IL,Illinois,1,Write-In
+2012_IL,2012,"Frost, Stephen James",IL,Illinois,1,Write-In
+2012_IN,2012,"Romney, Mitt",IN,Indiana,1420543,Republican
+2012_IN,2012,"Obama, Barack",IN,Indiana,1152887,Democratic
+2012_IN,2012,"Johnson, Gary",IN,Indiana,50111,Libertarian
+2012_IN,2012,"Stein, Jill",IN,Indiana,625,Write-In
+2012_IN,2012,"Goode, Virgil H., Jr.",IN,Indiana,290,Write-In
+2012_IN,2012,"Hoefling, Tom",IN,Indiana,35,Write-In
+2012_IN,2012,"Alexander, Stewart",IN,Indiana,17,Write-In
+2012_IN,2012,"Reed, Jill",IN,Indiana,8,Write-In
+2012_IN,2012,"Terry, Randall A.",IN,Indiana,8,Write-In
+2012_IN,2012,"Knill, Dennis",IN,Indiana,7,Write-In
+2012_IN,2012,"Dummett, John A., Jr.",IN,Indiana,2,Write-In
+2012_IN,2012,"Lopez, Christina",IN,Indiana,1,Write-In
+2012_IA,2012,"Obama, Barack",IA,Iowa,822544,Democratic
+2012_IA,2012,"Romney, Mitt",IA,Iowa,730617,Republican
+2012_IA,2012,"Johnson, Gary",IA,Iowa,12926,Libertarian
+2012_IA,2012,"Stein, Jill",IA,Iowa,3769,Iowa Green
+2012_IA,2012,"Goode, Virgil",IA,Iowa,3038,Constitution
+2012_IA,2012,"Litzel, Jerry",IA,Iowa,1027,Nominated by Petition
+2012_IA,2012,"Harris, James",IA,Iowa,445,Socialist Workers Party
+2012_IA,2012,"La Riva, Gloria",IA,Iowa,372,Party for Socialism and Liberation
+2012_KS,2012,"Romney, Mitt",KS,Kansas,692634,Republican
+2012_KS,2012,"Obama, Barack",KS,Kansas,440726,Democratic
+2012_KS,2012,"Johnson, Gary",KS,Kansas,20456,Libertarian
+2012_KS,2012,"Baldwin, Chuck",KS,Kansas,5017,Reform
+2012_KS,2012,"Stein, Jill E.",KS,Kansas,714,Write-In
+2012_KS,2012,"Goode, Virgil",KS,Kansas,187,Write-In
+2012_KS,2012,"Anderson, Ross ""Rocky"" C.",KS,Kansas,95,Write-In
+2012_KS,2012,"Barr, Roseanne C.",KS,Kansas,58,Write-In
+2012_KS,2012,"Bush, Kent W.",KS,Kansas,48,Write-In
+2012_KS,2012,"Barnett, Andre",KS,Kansas,19,Write-In
+2012_KS,2012,"Hoefling, Tom",KS,Kansas,12,Write-In
+2012_KS,2012,"Reed, Jill A.",KS,Kansas,4,Write-In
+2012_KS,2012,"Christensen, Will",KS,Kansas,1,Write-In
+2012_KY,2012,"Romney, Mitt",KY,Kentucky,1087190,Republican
+2012_KY,2012,"Obama, Barack",KY,Kentucky,679370,Democratic
+2012_KY,2012,"Johnson, Gary",KY,Kentucky,17063,Libertarian
+2012_KY,2012,"Terry, Randall A.",KY,Kentucky,6872,Independent
+2012_KY,2012,"Stein, Jill",KY,Kentucky,6337,Green
+2012_KY,2012,"Goode, Virgil",KY,Kentucky,245,Write-In
+2012_KY,2012,"Anderson, Ross C. ""Rocky""",KY,Kentucky,60,Write-In
+2012_KY,2012,"Duncan, Richard",KY,Kentucky,37,Write-In
+2012_KY,2012,"Hoefling, Tom",KY,Kentucky,30,Write-In
+2012_KY,2012,"White, Jerry",KY,Kentucky,4,Write-In
+2012_KY,2012,"Durham, Stephen",KY,Kentucky,2,Write-In
+2012_KY,2012,"House, Louis Todd",KY,Kentucky,1,Write-In
+2012_KY,2012,"Knill, Dennis",KY,Kentucky,1,Write-In
+2012_LA,2012,"Romney, Mitt",LA,Louisiana,1152262,Republican
+2012_LA,2012,"Obama, Barack",LA,Louisiana,809141,Democratic
+2012_LA,2012,"Johnson, Gary",LA,Louisiana,18157,Libertarian
+2012_LA,2012,"Stein, Jill",LA,Louisiana,6978,Green
+2012_LA,2012,"Goode, Virgil",LA,Louisiana,2508,Constitution
+2012_LA,2012,"Tittle, Sheila",LA,Louisiana,1767,We the People
+2012_LA,2012,"Anderson, Ross",LA,Louisiana,1368,Justice Party
+2012_LA,2012,"Lindsay, Peta",LA,Louisiana,622,Socialism and Liberation Party
+2012_LA,2012,"Fellure, Jack",LA,Louisiana,518,Prohibition Party
+2012_LA,2012,"Harris, James",LA,Louisiana,389,Socialist Workers Party
+2012_LA,2012,"White, Jerry",LA,Louisiana,355,Socialist Equality Party
+2012_ME,2012,"Obama, Barack",ME,Maine,401306,Democratic
+2012_ME,2012,"Romney, Mitt",ME,Maine,292276,Republican
+2012_ME,2012,"Johnson, Gary E.",ME,Maine,9352,Libertarian
+2012_ME,2012,"Stein, Jill",ME,Maine,8119,Green Independent
+2012_ME,2012,"Paul, Ronald E.",ME,Maine,2035,Write-In
+2012_ME,2012,"Anderson, Ross C.",ME,Maine,62,Write-In
+2012_ME,2012,"Reed, Jill Ann",ME,Maine,30,Write-In
+2012_MD,2012,"Obama, Barack",MD,Maryland,1677844,Democratic
+2012_MD,2012,"Romney, Mitt",MD,Maryland,971869,Republican
+2012_MD,2012,"Johnson, Gary",MD,Maryland,30195,Libertarian
+2012_MD,2012,"Stein, Jill",MD,Maryland,17110,Green
+2012_MD,2012,Other,MD,Maryland,8788,Write-In
+2012_MD,2012,"Claus, Santa",MD,Maryland,625,Write-In
+2012_MD,2012,"Goode, Virgil",MD,Maryland,418,Write-In
+2012_MD,2012,"Anderson, Ross C. ""Rocky""",MD,Maryland,204,Write-In
+2012_MD,2012,"Barr, Roseanne",MD,Maryland,64,Write-In
+2012_MD,2012,"Clymer, James",MD,Maryland,35,Write-In
+2012_MD,2012,"Miller, Merlin",MD,Maryland,26,Write-In
+2012_MD,2012,"Barnett, Andre",MD,Maryland,19,Write-In
+2012_MD,2012,"Durham, Stephen",MD,Maryland,19,Write-In
+2012_MD,2012,"Briscoe, Tiffany Renee",MD,Maryland,18,Write-In
+2012_MD,2012,"Lydick, Matthew",MD,Maryland,18,Write-In
+2012_MD,2012,"Duncan, Richard",MD,Maryland,15,Write-In
+2012_MD,2012,"Chehade, Paul",MD,Maryland,13,Write-In
+2012_MD,2012,"Dickson, Fred Donald, Jr.",MD,Maryland,8,Write-In
+2012_MD,2012,"Crosby, David M.",MD,Maryland,7,Write-In
+2012_MD,2012,"Hykes, Darrell",MD,Maryland,7,Write-In
+2012_MD,2012,"Reed, Jill",MD,Maryland,7,Write-In
+2012_MD,2012,"Boyles, Michael David",MD,Maryland,5,Write-In
+2012_MD,2012,"Keyton, Nelson",MD,Maryland,3,Write-In
+2012_MD,2012,"French, Dwight Kenneth",MD,Maryland,2,Write-In
+2012_MD,2012,"Knill, Dennis",MD,Maryland,2,Write-In
+2012_MD,2012,"Prokopich, Barbara A.",MD,Maryland,2,Write-In
+2012_MD,2012,"Dietz, Robert William",MD,Maryland,1,Write-In
+2012_MD,2012,"Morstad, Dean",MD,Maryland,1,Write-In
+2012_MD,2012,"O'Hara, Terrance James",MD,Maryland,1,Write-In
+2012_MD,2012,"Roth, Cecil James",MD,Maryland,1,Write-In
+2012_MA,2012,"Obama, Barack",MA,Massachusetts,1921290,Democratic
+2012_MA,2012,"Romney, Mitt",MA,Massachusetts,1188314,Republican
+2012_MA,2012,"Johnson, Gary",MA,Massachusetts,30920,Libertarian
+2012_MA,2012,"Stein, Jill",MA,Massachusetts,20691,Green-Rainbow
+2012_MA,2012,All Others,MA,Massachusetts,6552,Write-In
+2012_MI,2012,"Obama, Barack",MI,Michigan,2564569,Democratic
+2012_MI,2012,"Romney, Mitt",MI,Michigan,2115256,Republican
+2012_MI,2012,"Stein, Jill",MI,Michigan,21897,Green
+2012_MI,2012,"Goode, Virgil, Jr.",MI,Michigan,16119,U.S. Taxpayers
+2012_MI,2012,"Johnson, Gary",MI,Michigan,7774,Write-In
+2012_MI,2012,"Anderson, Ross",MI,Michigan,5147,Natural Law Party
+2012_MI,2012,"Alexander, Stewart",MI,Michigan,89,Write-In
+2012_MI,2012,"White, Jerry",MI,Michigan,68,Write-In
+2012_MI,2012,"Hoefling, Tom",MI,Michigan,42,Write-In
+2012_MN,2012,"Obama, Barack",MN,Minnesota,1546167,Democratic-Farmer Labor
+2012_MN,2012,"Romney, Mitt",MN,Minnesota,1320225,Republican
+2012_MN,2012,"Johnson, Gary",MN,Minnesota,35098,Libertarian
+2012_MN,2012,"Stein, Jill",MN,Minnesota,13023,Green
+2012_MN,2012,"Goode, Virgil",MN,Minnesota,3722,Constitution
+2012_MN,2012,"Carlson, Jim",MN,Minnesota,3149,Grassroots
+2012_MN,2012,"Anderson, Ross C. ""Rocky""",MN,Minnesota,1996,Justice Party
+2012_MN,2012,"Morstad, Dean",MN,Minnesota,1092,Constitutional Government
+2012_MN,2012,"Harris, James",MN,Minnesota,1051,Socialist Workers Party
+2012_MN,2012,"Lindsay, Peta",MN,Minnesota,397,Socialism and Liberation Party
+2012_MN,2012,"Barr, Roseanne",MN,Minnesota,46,Write-In
+2012_MN,2012,"Prokopich, Barbara",MN,Minnesota,35,Write-In
+2012_MN,2012,"Hoefling, Tom",MN,Minnesota,14,Write-In
+2012_MN,2012,"Reed, Jill",MN,Minnesota,8,Write-In
+2012_MN,2012,"Barnett, Andre",MN,Minnesota,4,Write-In
+2012_MN,2012,"Christensen, Will",MN,Minnesota,1,Write-In
+2012_MS,2012,"Romney, Mitt",MS,Mississippi,710746,Republican
+2012_MS,2012,"Obama, Barack",MS,Mississippi,562949,Democratic
+2012_MS,2012,"Johnson, Gary",MS,Mississippi,6676,Libertarian
+2012_MS,2012,"Goode, Virgil",MS,Mississippi,2609,Constitution
+2012_MS,2012,"Stein, Jill A.",MS,Mississippi,1588,Green
+2012_MS,2012,"Washer, Barbara Dale",MS,Mississippi,1016,Reform
+2012_MO,2012,"Romney, Mitt",MO,Missouri,1482440,Republican
+2012_MO,2012,"Obama, Barack",MO,Missouri,1223796,Democratic
+2012_MO,2012,"Johnson, Gary",MO,Missouri,43151,Libertarian
+2012_MO,2012,"Goode, Virgil",MO,Missouri,7936,Constitution
+2012_MT,2012,"Romney, Mitt",MT,Montana,267928,Republican
+2012_MT,2012,"Obama, Barack",MT,Montana,201839,Democratic
+2012_MT,2012,"Johnson, Gary",MT,Montana,14165,Libertarian
+2012_MT,2012,"Anderson, Ross C. ""Rocky""",MT,Montana,59,Write-In
+2012_MT,2012,"Goode, Virgil",MT,Montana,39,Write-In
+2012_MT,2012,"Barr, Roseanne",MT,Montana,6,Write-In
+2012_MT,2012,"Hoefling, Tom",MT,Montana,5,Write-In
+2012_MT,2012,"Alexander, Stewart",MT,Montana,4,Write-In
+2012_MT,2012,"Barnett, Andre",MT,Montana,2,Write-In
+2012_MT,2012,"Logsdon, Alexis",MT,Montana,1,Write-In
+2012_NE,2012,"Romney, Mitt",NE,Nebraska,475064,Republican
+2012_NE,2012,"Obama, Barack",NE,Nebraska,302081,Democratic
+2012_NE,2012,"Johnson, Gary",NE,Nebraska,11109,Libertarian
+2012_NE,2012,"Terry, Randall A.",NE,Nebraska,2408,By Petition
+2012_NV,2012,"Obama, Barack",NV,Nevada,531373,Democratic
+2012_NV,2012,"Romney, Mitt",NV,Nevada,463567,Republican
+2012_NV,2012,"Johnson, Gary",NV,Nevada,10968,Libertarian
+2012_NV,2012,"Goode, Virgil",NV,Nevada,3240,Independent American  Party
+2012_NH,2012,"Obama, Barack",NH,New Hampshire,369561,Democratic
+2012_NH,2012,"Romney, Mitt",NH,New Hampshire,329918,Republican
+2012_NH,2012,"Johnson, Gary",NH,New Hampshire,8212,Libertarian
+2012_NH,2012,"Paul, Ron",NH,New Hampshire,1374,Write-In
+2012_NH,2012,"Goode, Virgil",NH,New Hampshire,708,Constitution
+2012_NH,2012,"Stein, Jill",NH,New Hampshire,324,Write-In
+2012_NJ,2012,"Obama, Barack",NJ,New Jersey,2125101,Democratic
+2012_NJ,2012,"Romney, Mitt",NJ,New Jersey,1477568,Republican
+2012_NJ,2012,"Johnson, Gary",NJ,New Jersey,21045,Libertarian
+2012_NJ,2012,"Stein, Jill",NJ,New Jersey,9888,Green
+2012_NJ,2012,"Goode, Virgil",NJ,New Jersey,2064,Constitution
+2012_NJ,2012,"Anderson, Ross C. (Rocky)",NJ,New Jersey,1724,New Jersey Justice Party
+2012_NJ,2012,"Boss, Jeff",NJ,New Jersey,1007,NSA Did 911
+2012_NJ,2012,"Harris, James",NJ,New Jersey,710,Socialist Workers Party
+2012_NJ,2012,"Miller, Merlin",NJ,New Jersey,664,American Third Position
+2012_NJ,2012,"Lindsay, Peta",NJ,New Jersey,521,Socialism and Liberation Party
+2012_NM,2012,"Obama, Barack",NM,New Mexico,415335,Democratic
+2012_NM,2012,"Romney, Mitt",NM,New Mexico,335788,Republican
+2012_NM,2012,"Johnson, Gary",NM,New Mexico,27788,Libertarian
+2012_NM,2012,"Stein, Jill",NM,New Mexico,2691,Green
+2012_NM,2012,"Anderson, Ross C. ""Rocky""",NM,New Mexico,1174,New Mexico Independent Party
+2012_NM,2012,"Goode, Virgil",NM,New Mexico,982,Constitution
+2012_NY,2012,"Obama, Barack",NY,New York,4485741,"Democratic,Working Families"
+2012_NY,2012,"Romney, Mitt",NY,New York,2490431,"Republican,Conservative"
+2012_NY,2012,"Johnson, Gary",NY,New York,47256,Libertarian
+2012_NY,2012,"Stein, Jill",NY,New York,39982,Green
+2012_NY,2012,"Goode, Virgil",NY,New York,6274,Constitution
+2012_NY,2012,"Lindsay, Peta",NY,New York,2050,Socialism and Liberation Party
+2012_NY,2012,"Anderson, Ross C.",NY,New York,217,Write-In
+2012_NY,2012,"Durham, Stephen",NY,New York,34,Write-In
+2012_NY,2012,"Hoefling, Tom",NY,New York,34,Write-In
+2012_NY,2012,"Harris, James",NY,New York,27,Write-In
+2012_NY,2012,"White, Jerry",NY,New York,19,Write-In
+2012_NY,2012,"Reed, Jill",NY,New York,12,Write-In
+2012_NY,2012,"Miller, Merlin",NY,New York,6,Write-In
+2012_NC,2012,"Romney, Mitt",NC,North Carolina,2270395,Republican
+2012_NC,2012,"Obama, Barack",NC,North Carolina,2178391,Democratic
+2012_NC,2012,"Johnson, Gary",NC,North Carolina,44515,Libertarian
+2012_NC,2012,"Goode, Virgil",NC,North Carolina,534,Write-In
+2012_ND,2012,"Romney, Mitt",ND,North Dakota,188163,Republican
+2012_ND,2012,"Obama, Barack",ND,North Dakota,124827,Democratic-Nonpartisan League
+2012_ND,2012,"Johnson, Gary",ND,North Dakota,5231,Libertarian
+2012_ND,2012,"Stein, Jill",ND,North Dakota,1361,Green
+2012_ND,2012,"Goode, Virgil",ND,North Dakota,1185,Constitution
+2012_OH,2012,"Obama, Barack",OH,Ohio,2827710,Democratic
+2012_OH,2012,"Romney, Mitt",OH,Ohio,2661433,Republican
+2012_OH,2012,"Johnson, Gary",OH,Ohio,49493,Libertarian
+2012_OH,2012,"Stein, Jill",OH,Ohio,18574,Green
+2012_OH,2012,"Duncan, Richard",OH,Ohio,12502,Independent
+2012_OH,2012,"Goode, Virgil",OH,Ohio,8151,Constitution
+2012_OH,2012,"Alexander, Stewart",OH,Ohio,2944,Socialist Party USA
+2012_OH,2012,"Vargo, Mike",OH,Ohio,12,Write-In
+2012_OH,2012,"Reed, Jill",OH,Ohio,12,Write-In
+2012_OH,2012,"Terry, Randall",OH,Ohio,7,Write-In
+2012_OH,2012,"Daniels, Susan",OH,Ohio,1,Write-In
+2012_OH,2012,"Keyton, Nelson",OH,Ohio,1,Write-In
+2012_OK,2012,"Romney, Mitt",OK,Oklahoma,891325,Republican
+2012_OK,2012,"Obama, Barack",OK,Oklahoma,443547,Democratic
+2012_OR,2012,"Obama, Barack",OR,Oregon,970488,Democratic
+2012_OR,2012,"Romney, Mitt",OR,Oregon,754175,Republican
+2012_OR,2012,"Johnson, Gary",OR,Oregon,24089,Libertarian
+2012_OR,2012,"Stein, Jill",OR,Oregon,19427,Pacific Green
+2012_OR,2012,Miscellaneous,OR,Oregon,13275,Write-In
+2012_OR,2012,"Christensen, Will",OR,Oregon,4432,Constitution
+2012_OR,2012,"Anderson, Ross C. (Rocky)",OR,Oregon,3384,Progressive
+2012_PA,2012,"Obama, Barack",PA,Pennsylvania,2990274,Democratic
+2012_PA,2012,"Romney, Mitt",PA,Pennsylvania,2680434,Republican
+2012_PA,2012,"Johnson, Gary",PA,Pennsylvania,49991,Libertarian
+2012_PA,2012,"Stein, Jill",PA,Pennsylvania,21341,Green
+2012_PA,2012,"Goode, Virgil",PA,Pennsylvania,383,Write-In
+2012_PA,2012,"Hoefling, Tom",PA,Pennsylvania,28,Write-In
+2012_RI,2012,"Obama, Barack",RI,Rhode Island,279677,Democratic
+2012_RI,2012,"Romney, Mitt",RI,Rhode Island,157204,Republican
+2012_RI,2012,"Johnson, Gary",RI,Rhode Island,4388,Libertarian
+2012_RI,2012,"Stein, Jill",RI,Rhode Island,2421,Green
+2012_RI,2012,"Paul, Ron",RI,Rhode Island,617,Write-In
+2012_RI,2012,"Goode, Virgil",RI,Rhode Island,430,Constitution
+2012_RI,2012,"Anderson, Ross C. ""Rocky""",RI,Rhode Island,416,Justice Party
+2012_RI,2012,"Lindsay, Peta",RI,Rhode Island,132,Socialism and Liberation Party
+2012_RI,2012,"Clinton, Hillary",RI,Rhode Island,64,Write-In
+2012_RI,2012,"Mouse, Mickey",RI,Rhode Island,14,Write-In
+2012_SC,2012,"Romney, Mitt",SC,South Carolina,1071645,Republican
+2012_SC,2012,"Obama, Barack",SC,South Carolina,865941,Democratic
+2012_SC,2012,"Johnson, Gary",SC,South Carolina,16321,Libertarian
+2012_SC,2012,"Stein, Jill",SC,South Carolina,5446,Green
+2012_SC,2012,"Goode, Virgil",SC,South Carolina,4765,Constitution
+2012_SD,2012,"Romney, Mitt",SD,South Dakota,210610,Republican
+2012_SD,2012,"Obama, Barack",SD,South Dakota,145039,Democratic
+2012_SD,2012,"Johnson, Gary",SD,South Dakota,5795,Libertarian
+2012_SD,2012,"Goode, Virgil",SD,South Dakota,2371,Constitution
+2012_TN,2012,"Romney, Mitt",TN,Tennessee,1462330,Republican
+2012_TN,2012,"Obama, Barack",TN,Tennessee,960709,Democratic
+2012_TN,2012,"Johnson, Gary",TN,Tennessee,18623,Independent
+2012_TN,2012,"Stein, Jill",TN,Tennessee,6515,Green
+2012_TN,2012,"Goode, Virgil",TN,Tennessee,6022,Constitution
+2012_TN,2012,"Anderson, Ross C. ""Rocky""",TN,Tennessee,2639,Independent
+2012_TN,2012,"Miller, Merlin",TN,Tennessee,1739,Independent
+2012_TX,2012,"Romney, Mitt",TX,Texas,4569843,Republican
+2012_TX,2012,"Obama, Barack",TX,Texas,3308124,Democratic
+2012_TX,2012,"Johnson, Gary",TX,Texas,88580,Libertarian
+2012_TX,2012,"Stein, Jill",TX,Texas,24657,Green
+2012_TX,2012,"Goode, Virgil",TX,Texas,1287,Write-In
+2012_TX,2012,"Anderson, Rocky",TX,Texas,426,Write-In
+2012_TX,2012,"Hoefling, Tom",TX,Texas,374,Write-In
+2012_TX,2012,"Ayers, Avery",TX,Texas,209,Write-In
+2012_TX,2012,"Alexander, Stewart",TX,Texas,162,Write-In
+2012_TX,2012,"Hill, Thaddaus",TX,Texas,102,Write-In
+2012_TX,2012,"Barnett, Andre N.",TX,Texas,87,Write-In
+2012_UT,2012,"Romney, Mitt",UT,Utah,740600,Republican
+2012_UT,2012,"Obama, Barack",UT,Utah,251813,Democratic
+2012_UT,2012,"Johnson, Gary",UT,Utah,12572,Libertarian
+2012_UT,2012,"Anderson, Ross C. ""Rocky""",UT,Utah,5335,Justice Party
+2012_UT,2012,"Stein, Jill",UT,Utah,3817,Green
+2012_UT,2012,"Goode, Virgil",UT,Utah,2871,Constitution
+2012_UT,2012,"La Riva, Gloria",UT,Utah,393,Unaffiliated
+2012_UT,2012,"Barr, Roseanne",UT,Utah,18,Write-In
+2012_UT,2012,"Reed, Jill",UT,Utah,6,Write-In
+2012_UT,2012,"Barnett, Andre",UT,Utah,5,Write-In
+2012_UT,2012,"Christensen, Will",UT,Utah,5,Write-In
+2012_UT,2012,"Myers, Justin",UT,Utah,2,Write-In
+2012_UT,2012,"Durham, Stephen",UT,Utah,1,Write-In
+2012_UT,2012,"Hykes, Darrell",UT,Utah,1,Write-In
+2012_UT,2012,"Morstad, Dean",UT,Utah,1,Write-In
+2012_VT,2012,"Obama, Barack",VT,Vermont,199239,Democratic
+2012_VT,2012,"Romney, Mitt",VT,Vermont,92698,Republican
+2012_VT,2012,"Johnson, Gary",VT,Vermont,3487,Libertarian
+2012_VT,2012,"Anderson, Ross C. ""Rocky""",VT,Vermont,1128,Justice Party
+2012_VT,2012,"Paul, Ron",VT,Vermont,717,Write-In
+2012_VT,2012,"Lindsay, Peta",VT,Vermont,695,Socialism and Liberation Party
+2012_VT,2012,"Stein, Jill",VT,Vermont,594,Write-In
+2012_VT,2012,"Goode, Virgil",VT,Vermont,13,Write-In
+2012_VT,2012,"Barr, Roseanne",VT,Vermont,9,Write-In
+2012_VA,2012,"Obama, Barack",VA,Virginia,1971820,Democratic
+2012_VA,2012,"Romney, Mitt",VA,Virginia,1822522,Republican
+2012_VA,2012,"Johnson, Gary",VA,Virginia,31216,Libertarian
+2012_VA,2012,"Goode, Virgil",VA,Virginia,13058,Constitution
+2012_VA,2012,"Stein, Jill",VA,Virginia,8627,Green
+2012_VA,2012,"Anderson, Ross C. ""Rocky""",VA,Virginia,76,Write-In
+2012_VA,2012,"Reed, Jill",VA,Virginia,14,Write-In
+2012_VA,2012,"Glean, Joseph A. / Darlene Herleikson",VA,Virginia,3,Write-In
+2012_VA,2012,"Glean, Joseph A. / Jamie Johnson",VA,Virginia,1,Write-In
+2012_VA,2012,"Tittle, Sheila ""Samm""",VA,Virginia,1,Write-In
+2012_WA,2012,"Obama, Barack",WA,Washington,1755396,Democratic
+2012_WA,2012,"Romney, Mitt",WA,Washington,1290670,Republican
+2012_WA,2012,"Johnson, Gary",WA,Washington,42202,Libertarian
+2012_WA,2012,"Stein, Jill",WA,Washington,20928,Green
+2012_WA,2012,"Goode, Virgil",WA,Washington,8851,Constitution
+2012_WA,2012,"Anderson, Ross C. ""Rocky""",WA,Washington,4946,Justice Party
+2012_WA,2012,"Lindsay, Peta",WA,Washington,1318,Socialism and Liberation Party
+2012_WA,2012,"Harris, James",WA,Washington,1205,Socialist Workers Party
+2012_WV,2012,"Romney, Mitt",WV,West Virginia,417655,Republican
+2012_WV,2012,"Obama, Barack",WV,West Virginia,238269,Democratic
+2012_WV,2012,"Johnson, Gary",WV,West Virginia,6302,Libertarian
+2012_WV,2012,"Stein, Jill",WV,West Virginia,4406,Mountain Party
+2012_WV,2012,"Terry, Randall",WV,West Virginia,3806,No Party Affiliation
+2012_WI,2012,"Obama, Barack",WI,Wisconsin,1620985,Democratic
+2012_WI,2012,"Romney, Mitt",WI,Wisconsin,1407966,Republican
+2012_WI,2012,"Johnson, Gary",WI,Wisconsin,20439,Independent
+2012_WI,2012,"Stein, Jill",WI,Wisconsin,7665,Independent
+2012_WI,2012,"Goode, Virgil",WI,Wisconsin,4930,Constitution
+2012_WI,2012,"White, Jerry",WI,Wisconsin,553,Independent
+2012_WI,2012,"La Riva, Gloria",WI,Wisconsin,526,Independent
+2012_WI,2012,"Anderson, Ross C. ""Rocky""",WI,Wisconsin,112,Write-In
+2012_WI,2012,"Barr, Roseanne",WI,Wisconsin,88,Write-In
+2012_WY,2012,"Romney, Mitt",WY,Wyoming,170962,Republican
+2012_WY,2012,"Obama, Barack",WY,Wyoming,69286,Democratic
+2012_WY,2012,"Johnson, Gary",WY,Wyoming,5326,Libertarian
+2012_WY,2012,"Goode, Virgil H.",WY,Wyoming,1452,Constitution

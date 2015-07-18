@@ -1,0 +1,463 @@
+id,year,name,abbr,state,votes,parties
+2008_AL,2008,"McCain, John",AL,Alabama,1266546,Republican
+2008_AL,2008,"Obama, Barack",AL,Alabama,813479,Democratic
+2008_AL,2008,"Nader, Ralph",AL,Alabama,6788,Independent
+2008_AL,2008,"Barr, Bob",AL,Alabama,4991,Independent
+2008_AL,2008,"Baldwin, Chuck",AL,Alabama,4310,Independent
+2008_AK,2008,"McCain, John",AK,Alaska,193841,Republican
+2008_AK,2008,"Obama, Barack",AK,Alaska,123594,Democratic
+2008_AK,2008,"Nader, Ralph",AK,Alaska,3783,Independent
+2008_AK,2008,"Baldwin, Chuck",AK,Alaska,1660,Alaskan Independence
+2008_AK,2008,"Barr, Bob",AK,Alaska,1589,Libertarian
+2008_AZ,2008,"McCain, John",AZ,Arizona,1230111,Republican
+2008_AZ,2008,"Obama, Barack",AZ,Arizona,1034707,Democratic
+2008_AZ,2008,"Barr, Bob",AZ,Arizona,12555,Libertarian
+2008_AZ,2008,"Nader, Ralph",AZ,Arizona,11301,Independent
+2008_AZ,2008,"McKinney, Cynthia",AZ,Arizona,3406,Green
+2008_AZ,2008,"Baldwin, Chuck",AZ,Arizona,1371,Write-In
+2008_AZ,2008,"Jay, Charles",AZ,Arizona,16,Write-In
+2008_AZ,2008,"Allen, Jonathan",AZ,Arizona,8,Write-In
+2008_AR,2008,"McCain, John",AR,Arkansas,638017,Republican
+2008_AR,2008,"Obama, Barack",AR,Arkansas,422310,Democratic
+2008_AR,2008,"Nader, Ralph",AR,Arkansas,12882,Independent
+2008_AR,2008,"Barr, Bob",AR,Arkansas,4776,Libertarian
+2008_AR,2008,"Baldwin, Chuck",AR,Arkansas,4023,Constitution
+2008_AR,2008,"McKinney, Cynthia",AR,Arkansas,3470,Green
+2008_AR,2008,"La Riva, Gloria",AR,Arkansas,1139,Socialism and Liberation Party
+2008_CA,2008,"Obama, Barack",CA,California,8274473,Democratic
+2008_CA,2008,"McCain, John",CA,California,5011781,Republican
+2008_CA,2008,"Nader, Ralph",CA,California,108381,Peace And Freedom
+2008_CA,2008,"Barr, Bob",CA,California,67582,Libertarian
+2008_CA,2008,"Keyes, Alan",CA,California,40673,American Independent
+2008_CA,2008,"McKinney, Cynthia",CA,California,38774,Green
+2008_CA,2008,"Paul, Ron",CA,California,17006,Write-In
+2008_CA,2008,"Baldwin, Chuck",CA,California,3145,Write-In
+2008_CA,2008,"Harris, James",CA,California,49,Write-In
+2008_CA,2008,"Moore, Frank",CA,California,36,Write-In
+2008_CO,2008,"Obama, Barack",CO,Colorado,1288633,Democratic
+2008_CO,2008,"McCain, John",CO,Colorado,1073629,Republican
+2008_CO,2008,"Nader, Ralph",CO,Colorado,13352,Unaffiliated
+2008_CO,2008,"Barr, Bob",CO,Colorado,10898,Libertarian Party of Colorado
+2008_CO,2008,"Baldwin, Chuck",CO,Colorado,6233,Constitution
+2008_CO,2008,"Keyes, Alan",CO,Colorado,3051,America’s Independent
+2008_CO,2008,"McKinney, Cynthia",CO,Colorado,2822,Green Party of Colorado
+2008_CO,2008,"McEnulty, Frank Edward",CO,Colorado,829,Unaffiliated
+2008_CO,2008,"Jay, Charles",CO,Colorado,598,Boston Tea Party
+2008_CO,2008,"Allen, Jonathan E.",CO,Colorado,348,HeartQuake ‘08
+2008_CO,2008,"Stevens, Thomas Robert",CO,Colorado,336,Objectivist Party
+2008_CO,2008,"Moore, Brian",CO,Colorado,226,Socialist Party USA
+2008_CO,2008,"La Riva, Gloria",CO,Colorado,158,Socialism and Liberation Party
+2008_CO,2008,"Harris, James",CO,Colorado,154,Socialist Workers Party
+2008_CO,2008,"Lyttle, Bradford",CO,Colorado,110,U.S. Pacificist Party
+2008_CO,2008,"Amondson, Gene C.",CO,Colorado,85,Prohibition Party
+2008_CT,2008,"Obama, Barack",CT,Connecticut,997772,Democratic
+2008_CT,2008,"McCain, John",CT,Connecticut,629428,Republican
+2008_CT,2008,"Nader, Ralph",CT,Connecticut,19162,Independent
+2008_CT,2008,"Baldwin, Chuck",CT,Connecticut,311,Write-In
+2008_CT,2008,"McKinney, Cynthia",CT,Connecticut,90,Write-In
+2008_CT,2008,"Moore, Brian",CT,Connecticut,19,Write-In
+2008_CT,2008,"Calero, Roger",CT,Connecticut,15,Write-In
+2008_DE,2008,"Obama, Barack",DE,Delaware,255459,Democratic
+2008_DE,2008,"McCain, John",DE,Delaware,152374,Republican
+2008_DE,2008,"Nader, Ralph",DE,Delaware,2401,Independent Party of Delaware
+2008_DE,2008,"Barr, Bob",DE,Delaware,1109,Libertarian
+2008_DE,2008,"Baldwin, Chuck",DE,Delaware,626,Constitution
+2008_DE,2008,"McKinney, Cynthia A.",DE,Delaware,385,Green
+2008_DE,2008,"Calero, Roger",DE,Delaware,58,Socialist Workers Party
+2008_DC,2008,"Obama, Barack",DC,District of Columbia,245800,Democratic
+2008_DC,2008,"McCain, John",DC,District of Columbia,17367,Republican
+2008_DC,2008,"Nader, Ralph",DC,District of Columbia,958,Independent
+2008_DC,2008,"McKinney, Cynthia",DC,District of Columbia,590,D.C. Statehood Green
+2008_FL,2008,"Obama, Barack",FL,Florida,4282074,Democratic
+2008_FL,2008,"McCain, John",FL,Florida,4045624,Republican
+2008_FL,2008,"Nader, Ralph",FL,Florida,28124,Ecology Party of Florida
+2008_FL,2008,"Barr, Bob",FL,Florida,17218,Libertarian Party of Florida
+2008_FL,2008,"Baldwin, Chuck",FL,Florida,7915,Constitution Party of Florida
+2008_FL,2008,"McKinney, Cynthia",FL,Florida,2887,Green Party of Florida
+2008_FL,2008,"Keyes, Alan",FL,Florida,2550,America’s Independent Party of Florida
+2008_FL,2008,"La Riva, Gloria",FL,Florida,1516,Party for Socialism and Liberation-Florida
+2008_FL,2008,"Jay, Charles",FL,Florida,795,Boston Tea Party
+2008_FL,2008,"Harris, James",FL,Florida,533,Florida Socialist Workers
+2008_FL,2008,"Stevens, Thomas Robert",FL,Florida,419,Objectivist Party of Florida
+2008_FL,2008,"Moore, Brian",FL,Florida,405,Socialist Party of Florida
+2008_FL,2008,"Nettles, Gary",FL,Florida,391,Write-In
+2008_FL,2008,"Amondson, Gene",FL,Florida,293,Prohibition Party
+2008_GA,2008,"McCain, John",GA,Georgia,2048759,Republican
+2008_GA,2008,"Obama, Barack",GA,Georgia,1844123,Democratic
+2008_GA,2008,"Barr, Bob",GA,Georgia,28731,Libertarian
+2008_GA,2008,"Baldwin, Chuck",GA,Georgia,1402,Write-In
+2008_GA,2008,"Nader, Ralph",GA,Georgia,1158,Write-In
+2008_GA,2008,"McKinney, Cynthia",GA,Georgia,250,Write-In
+2008_GA,2008,"Peroutka, Michael A.",GA,Georgia,23,Write-In
+2008_GA,2008,"Harris, James",GA,Georgia,20,Write-In
+2008_GA,2008,"Allen, Jonathan",GA,Georgia,8,Write-In
+2008_GA,2008,"Moore, Frank",GA,Georgia,6,Write-In
+2008_GA,2008,"Byrne, David C.",GA,Georgia,4,Write-In
+2008_GA,2008,"Brown, Brian Russell",GA,Georgia,2,Write-In
+2008_HI,2008,"Obama, Barack",HI,Hawaii,325871,Democratic
+2008_HI,2008,"McCain, John",HI,Hawaii,120566,Republican
+2008_HI,2008,"Nader, Ralph",HI,Hawaii,3825,Independent
+2008_HI,2008,"Barr, Bob",HI,Hawaii,1314,Libertarian
+2008_HI,2008,"Baldwin, Chuck",HI,Hawaii,1013,Constitution
+2008_HI,2008,"McKinney, Cynthia",HI,Hawaii,979,Green
+2008_ID,2008,"McCain, John",ID,Idaho,403012,Republican
+2008_ID,2008,"Obama, Barack",ID,Idaho,236440,Democratic
+2008_ID,2008,"Nader, Ralph",ID,Idaho,7175,Independent
+2008_ID,2008,"Baldwin, Chuck",ID,Idaho,4747,Constitution
+2008_ID,2008,"Barr, Bob",ID,Idaho,3658,Libertarian
+2008_ID,2008,"Keyes, Alan",ID,Idaho,40,Write-In
+2008_ID,2008,"McKinney, Cynthia",ID,Idaho,39,Write-In
+2008_ID,2008,"Claus, Santa",ID,Idaho,6,Write-In
+2008_ID,2008,"Moore, Brian",ID,Idaho,3,Write-In
+2008_ID,2008,"Bone, Lawson Mitchell",ID,Idaho,1,Write-In
+2008_ID,2008,Reverend MerePeace-MsMere,ID,Idaho,1,Write-In
+2008_IL,2008,"Obama, Barack",IL,Illinois,3419348,Democratic
+2008_IL,2008,"McCain, John",IL,Illinois,2031179,Republican
+2008_IL,2008,"Nader, Ralph",IL,Illinois,30948,Independent
+2008_IL,2008,"Barr, Bob",IL,Illinois,19642,Libertarian
+2008_IL,2008,"McKinney, Cynthia",IL,Illinois,11838,Green
+2008_IL,2008,"Baldwin, Charles O.",IL,Illinois,8256,Constitution Party of Illinois
+2008_IL,2008,"Polachek, John Joseph",IL,Illinois,1149,New
+2008_IL,2008,"Hobbs, Ronald G.",IL,Illinois,4,Write-In
+2008_IL,2008,"Allen, Donald K.",IL,Illinois,3,Write-In
+2008_IL,2008,"Moore, Frank James",IL,Illinois,3,Write-In
+2008_IL,2008,"Paul, Ron",IL,Illinois,1,Write-In
+2008_IN,2008,"Obama, Barack",IN,Indiana,1374039,Democratic
+2008_IN,2008,"McCain, John",IN,Indiana,1345648,Republican
+2008_IN,2008,"Barr, Bob",IN,Indiana,29257,Libertarian
+2008_IN,2008,"Baldwin, Chuck",IN,Indiana,1024,Write-In
+2008_IN,2008,"Nader, Ralph",IN,Indiana,909,Write-In
+2008_IN,2008,"McKinney, Cynthia",IN,Indiana,87,Write-In
+2008_IN,2008,"Castle, Darrell L.",IN,Indiana,51,Write-In
+2008_IN,2008,"Moore, Brian",IN,Indiana,14,Write-In
+2008_IN,2008,"Faith, Michael L.",IN,Indiana,12,Write-In
+2008_IN,2008,"Mottus, Kevin",IN,Indiana,9,Write-In
+2008_IN,2008,"Bone, Lawson Mitchell",IN,Indiana,2,Write-In
+2008_IN,2008,"Kujawski, ""Lou""",IN,Indiana,1,Write-In
+2008_IN,2008,"Plemons, John Leroy",IN,Indiana,1,Write-In
+2008_IA,2008,"Obama, Barack",IA,Iowa,828940,Democratic
+2008_IA,2008,"McCain, John",IA,Iowa,682379,Republican
+2008_IA,2008,"Nader, Ralph",IA,Iowa,8014,Peace And Freedom
+2008_IA,2008,"Barr, Bob",IA,Iowa,4590,Libertarian
+2008_IA,2008,"Baldwin, Chuck",IA,Iowa,4445,Constitution
+2008_IA,2008,"McKinney, Cynthia",IA,Iowa,1423,Green
+2008_IA,2008,"Harris, James",IA,Iowa,292,Socialist Workers Party
+2008_IA,2008,"Moore, Brian",IA,Iowa,182,Socialist Party USA
+2008_IA,2008,"La Riva, Gloria",IA,Iowa,121,Party for Socialism and Liberation
+2008_KS,2008,"McCain, John",KS,Kansas,699655,Republican
+2008_KS,2008,"Obama, Barack",KS,Kansas,514765,Democratic
+2008_KS,2008,"Nader, Ralph",KS,Kansas,10527,Independent
+2008_KS,2008,"Barr, Bob",KS,Kansas,6706,Libertarian
+2008_KS,2008,"Baldwin, Chuck",KS,Kansas,4148,Reform
+2008_KS,2008,"McKinney, Cynthia A.",KS,Kansas,35,Write-In
+2008_KS,2008,"Keyes, Alan",KS,Kansas,31,Write-In
+2008_KS,2008,"Allen, Jonathan E.",KS,Kansas,2,Write-In
+2008_KS,2008,"Moore, Frank",KS,Kansas,2,Write-In
+2008_KS,2008,"Judd, Keith Russell",KS,Kansas,1,Write-In
+2008_KY,2008,"McCain, John",KY,Kentucky,1048462,Republican
+2008_KY,2008,"Obama, Barack",KY,Kentucky,751985,Democratic
+2008_KY,2008,"Nader, Ralph",KY,Kentucky,15378,Independent
+2008_KY,2008,"Barr, Bob",KY,Kentucky,5989,Libertarian
+2008_KY,2008,"Baldwin, Chuck",KY,Kentucky,4694,Constitution
+2008_KY,2008,"Habermehl, Leonard C.",KY,Kentucky,57,Write-In
+2008_KY,2008,"Keyes, Alan",KY,Kentucky,27,Write-In
+2008_KY,2008,"Mills, Billy",KY,Kentucky,18,Write-In
+2008_KY,2008,"Moore, Brian",KY,Kentucky,7,Write-In
+2008_KY,2008,"Allen, Jonathan",KY,Kentucky,1,Write-In
+2008_KY,2008,"Judd, Keith Russell",KY,Kentucky,1,Write-In
+2008_KY,2008,"Upchurch, Shelley Renée",KY,Kentucky,1,Write-In
+2008_LA,2008,"McCain, John",LA,Louisiana,1148275,Republican
+2008_LA,2008,"Obama, Barack",LA,Louisiana,782989,Democratic
+2008_LA,2008,"Paul, ""Ron""",LA,Louisiana,9368,Louisiana Taxpayers Party
+2008_LA,2008,"McKinney, Cynthia",LA,Louisiana,9187,Green
+2008_LA,2008,"Nader, Ralph",LA,Louisiana,6997,Independent
+2008_LA,2008,"Baldwin, Chuck",LA,Louisiana,2581,Constitution
+2008_LA,2008,"Harris, James",LA,Louisiana,735,Socialist Workers Party
+2008_LA,2008,"La Riva, Gloria",LA,Louisiana,354,Socialism and Liberation Party
+2008_LA,2008,"Amondson, Gene C.",LA,Louisiana,275,Prohibition Party
+2008_ME,2008,"Obama, Barack",ME,Maine,421923,Democratic
+2008_ME,2008,"McCain, John",ME,Maine,295273,Republican
+2008_ME,2008,"Nader, Ralph",ME,Maine,10636,Independent
+2008_ME,2008,"McKinney, Cynthia",ME,Maine,2900,Green Independent
+2008_ME,2008,"Barr, Bob",ME,Maine,251,Write-In
+2008_ME,2008,"Baldwin, Chuck",ME,Maine,177,Write-In
+2008_ME,2008,"Allen, Jonathan",ME,Maine,3,Write-In
+2008_MD,2008,"Obama, Barack",MD,Maryland,1629467,Democratic
+2008_MD,2008,"McCain, John",MD,Maryland,959862,Republican
+2008_MD,2008,"Nader, Ralph",MD,Maryland,14713,Independent
+2008_MD,2008,"Barr, Bob",MD,Maryland,9842,Libertarian
+2008_MD,2008,"McKinney, Cynthia",MD,Maryland,4747,Green
+2008_MD,2008,"Baldwin, Chuck",MD,Maryland,3760,Constitution
+2008_MD,2008,"Keyes, Alan",MD,Maryland,103,Write-In
+2008_MD,2008,"Allen, Donald K.",MD,Maryland,17,Write-In
+2008_MD,2008,"Taylor, Blaine",MD,Maryland,12,Write-In
+2008_MD,2008,"Moore, Brian",MD,Maryland,10,Write-In
+2008_MD,2008,"Schriner, Joe",MD,Maryland,8,Write-In
+2008_MD,2008,"Starr, Lynne A.",MD,Maryland,4,Write-In
+2008_MD,2008,"Heupel, RaeDeen R.",MD,Maryland,2,Write-In
+2008_MD,2008,"Moore, Frank",MD,Maryland,2,Write-In
+2008_MD,2008,"Aparicio, Jose M.",MD,Maryland,1,Write-In
+2008_MD,2008,"Brown, Theodis (Ted), Sr.",MD,Maryland,1,Write-In
+2008_MD,2008,"Hobbs, Ronald G.",MD,Maryland,1,Write-In
+2008_MD,2008,"Jay, Charles",MD,Maryland,1,Write-In
+2008_MA,2008,"Obama, Barack",MA,Massachusetts,1904097,Democratic
+2008_MA,2008,"McCain, John",MA,Massachusetts,1108854,Republican
+2008_MA,2008,"Nader, Ralph",MA,Massachusetts,28841,Independent
+2008_MA,2008,"Barr, Bob",MA,Massachusetts,13189,Libertarian
+2008_MA,2008,"McKinney, Cynthia",MA,Massachusetts,6550,Green-Rainbow
+2008_MA,2008,"Baldwin, Chuck",MA,Massachusetts,4971,Constitution
+2008_MI,2008,"Obama, Barack",MI,Michigan,2872579,Democratic
+2008_MI,2008,"McCain, John",MI,Michigan,2048639,Republican
+2008_MI,2008,"Nader, Ralph",MI,Michigan,33085,Natural Law Party
+2008_MI,2008,"Barr, Bob",MI,Michigan,23716,Libertarian
+2008_MI,2008,"Baldwin, Chuck",MI,Michigan,14685,U.S. Taxpayers
+2008_MI,2008,"McKinney, Cynthia",MI,Michigan,8892,Green
+2008_MI,2008,"Keyes, Alan",MI,Michigan,129,Write-In
+2008_MI,2008,"Moore, Brian",MI,Michigan,41,Write-In
+2008_MN,2008,"Obama, Barack",MN,Minnesota,1573354,Democratic-Farmer Labor
+2008_MN,2008,"McCain, John",MN,Minnesota,1275409,Republican
+2008_MN,2008,"Nader, Ralph",MN,Minnesota,30152,Independent
+2008_MN,2008,"Barr, Bob",MN,Minnesota,9174,Libertarian
+2008_MN,2008,"Baldwin, Chuck",MN,Minnesota,6787,Constitution
+2008_MN,2008,"McKinney, Cynthia",MN,Minnesota,5174,Green
+2008_MN,2008,"Calero, Róger",MN,Minnesota,790,Socialist Workers Party
+2008_MN,2008,"Keyes, Alan",MN,Minnesota,22,Write-In
+2008_MN,2008,"Moore, Brian",MN,Minnesota,7,Write-In
+2008_MN,2008,"Schriner, Joe",MN,Minnesota,3,Write-In
+2008_MN,2008,"Montgomery, Curtis",MN,Minnesota,1,Write-In
+2008_MS,2008,"McCain, John",MS,Mississippi,724597,Republican
+2008_MS,2008,"Obama, Barack",MS,Mississippi,554662,Democratic
+2008_MS,2008,"Nader, Ralph",MS,Mississippi,4011,Independent
+2008_MS,2008,"Baldwin, Chuck",MS,Mississippi,2551,Constitution
+2008_MS,2008,"Barr, Bob",MS,Mississippi,2529,Libertarian
+2008_MS,2008,"McKinney, Cynthia A.",MS,Mississippi,1034,Green
+2008_MS,2008,"Weill, Ted C.",MS,Mississippi,481,Reform
+2008_MO,2008,"McCain, John",MO,Missouri,1445814,Republican
+2008_MO,2008,"Obama, Barack",MO,Missouri,1441911,Democratic
+2008_MO,2008,"Nader, Ralph",MO,Missouri,17813,Independent
+2008_MO,2008,"Barr, Bob",MO,Missouri,11386,Libertarian
+2008_MO,2008,"Baldwin, Chuck",MO,Missouri,8201,Constitution
+2008_MO,2008,"McKinney, Cynthia",MO,Missouri,80,Write-In
+2008_MT,2008,"McCain, John",MT,Montana,242763,Republican
+2008_MT,2008,"Obama, Barack",MT,Montana,231667,Democratic
+2008_MT,2008,"Paul, Ron",MT,Montana,10638,Constitution
+2008_MT,2008,"Nader, Ralph",MT,Montana,3686,Independent
+2008_MT,2008,"Barr, Bob",MT,Montana,1355,Libertarian
+2008_MT,2008,"Baldwin, Chuck",MT,Montana,143,Write-In
+2008_MT,2008,"McKinney, Cynthia Ann",MT,Montana,23,Write-In
+2008_MT,2008,"Heupel, RaeDeen",MT,Montana,12,Write-In
+2008_MT,2008,"Clemente, Rosa A.",MT,Montana,10,Write-In
+2008_MT,2008,"Claus, Santa",MT,Montana,3,Write-In
+2008_MT,2008,"Allen, Jonathan",MT,Montana,1,Write-In
+2008_MT,2008,"Wyatt, Amy Lou",MT,Montana,1,Write-In
+2008_NE,2008,"McCain, John",NE,Nebraska,452979,Republican
+2008_NE,2008,"Obama, Barack",NE,Nebraska,333319,Democratic
+2008_NE,2008,"Nader, Ralph",NE,Nebraska,5406,By Petition
+2008_NE,2008,"Baldwin, Chuck",NE,Nebraska,2972,Nebraska Party
+2008_NE,2008,"Barr, Bob",NE,Nebraska,2740,Libertarian
+2008_NE,2008,"McKinney, Cynthia",NE,Nebraska,1028,Green
+2008_NV,2008,"Obama, Barack",NV,Nevada,533736,Democratic
+2008_NV,2008,"McCain, John",NV,Nevada,412827,Republican
+2008_NV,2008,"Nader, Ralph",NV,Nevada,6150,Independent
+2008_NV,2008,"Barr, Bob",NV,Nevada,4263,Libertarian
+2008_NV,2008,"Baldwin, Chuck",NV,Nevada,3194,Independent American  Party
+2008_NV,2008,"McKinney, Cynthia",NV,Nevada,1411,Green
+2008_NH,2008,"Obama, Barack",NH,New Hampshire,384826,Democratic
+2008_NH,2008,"McCain, John",NH,New Hampshire,316534,Republican
+2008_NH,2008,"Nader, Ralph",NH,New Hampshire,3503,Independent
+2008_NH,2008,"Barr, ""Bob""",NH,New Hampshire,2217,Libertarian
+2008_NH,2008,"Clinton, Hilary",NH,New Hampshire,1124,Write-In
+2008_NH,2008,"Paul, Ron",NH,New Hampshire,1092,Write-In
+2008_NH,2008,"Others,",NH,New Hampshire,673,Write-In
+2008_NH,2008,"Phillies, George",NH,New Hampshire,531,Libertarian
+2008_NH,2008,"Baldwin, Chuck",NH,New Hampshire,226,Write-In
+2008_NH,2008,"Romney, Mitt",NH,New Hampshire,112,Write-In
+2008_NH,2008,"Huckabee, Mike",NH,New Hampshire,61,Write-In
+2008_NH,2008,"McKinney, Cynthia",NH,New Hampshire,40,Write-In
+2008_NH,2008,"Palin, Sarah",NH,New Hampshire,18,Write-In
+2008_NH,2008,"Clinton, Bill",NH,New Hampshire,13,Write-In
+2008_NJ,2008,"Obama, Barack",NJ,New Jersey,2215422,Democratic
+2008_NJ,2008,"McCain, John",NJ,New Jersey,1613207,Republican
+2008_NJ,2008,"Nader, Ralph",NJ,New Jersey,21298,Independent
+2008_NJ,2008,"Barr, Bob",NJ,New Jersey,8441,Libertarian
+2008_NJ,2008,"Baldwin, Chuck",NJ,New Jersey,3956,Constitution
+2008_NJ,2008,"McKinney, Cynthia",NJ,New Jersey,3636,Green
+2008_NJ,2008,"Moore, Brian",NJ,New Jersey,699,Socialist Party USA
+2008_NJ,2008,"Boss, Jeffrey ""Jeff""",NJ,New Jersey,639,Vote Here
+2008_NJ,2008,"Calero, Roger",NJ,New Jersey,523,Socialist Workers Party
+2008_NJ,2008,"La Riva, Gloria",NJ,New Jersey,416,Socialism and Liberation Party
+2008_NM,2008,"Obama, Barack",NM,New Mexico,472422,Democratic
+2008_NM,2008,"McCain, John",NM,New Mexico,346832,Republican
+2008_NM,2008,"Nader, Ralph",NM,New Mexico,5327,New Mexico Independent Party
+2008_NM,2008,"Barr, Bob",NM,New Mexico,2428,Libertarian
+2008_NM,2008,"Baldwin, Chuck",NM,New Mexico,1597,Constitution
+2008_NM,2008,"McKinney, Cynthia",NM,New Mexico,1552,Green
+2008_NY,2008,"Obama, Barack",NY,New York,4804945,"Democratic,Working Families"
+2008_NY,2008,"McCain, John",NY,New York,2752771,"Republican,Conservative,Independence"
+2008_NY,2008,"Nader, Ralph",NY,New York,41249,Populist
+2008_NY,2008,"Barr, Bob",NY,New York,19596,Libertarian
+2008_NY,2008,"McKinney, Cynthia",NY,New York,12801,Green
+2008_NY,2008,"Calero, Roger",NY,New York,3615,Socialist Workers Party
+2008_NY,2008,"La Riva, Gloria",NY,New York,1639,Socialism and Liberation Party
+2008_NY,2008,"Baldwin, Chuck",NY,New York,634,Write-In
+2008_NY,2008,"Keyes, Alan Lee",NY,New York,35,Write-In
+2008_NY,2008,"White, Jerome S.",NY,New York,18,Write-In
+2008_NY,2008,"Moore, Brian",NY,New York,10,Write-In
+2008_NY,2008,"Washington, Lanakila",NY,New York,3,Write-In
+2008_NY,2008,"Allen, Jonathan",NY,New York,1,Write-In
+2008_NY,2008,"Skok, Michael",NY,New York,1,Write-In
+2008_NC,2008,"Obama, Barack",NC,North Carolina,2142651,Democratic
+2008_NC,2008,"McCain, John",NC,North Carolina,2128474,Republican
+2008_NC,2008,"Barr, Bob",NC,North Carolina,25722,Libertarian
+2008_NC,2008,"Nader, Ralph",NC,North Carolina,1448,Write-In
+2008_NC,2008,"McKinney, Cynthia",NC,North Carolina,158,Write-In
+2008_NC,2008,"Moore, Brian",NC,North Carolina,38,Write-In
+2008_ND,2008,"McCain, John",ND,North Dakota,168601,Republican
+2008_ND,2008,"Obama, Barack",ND,North Dakota,141278,Democratic-Nonpartisan League
+2008_ND,2008,"Nader, Ralph",ND,North Dakota,4189,Independent
+2008_ND,2008,"Barr, Bob",ND,North Dakota,1354,Libertarian
+2008_ND,2008,"Baldwin, Chuck",ND,North Dakota,1199,Constitution
+2008_OH,2008,"Obama, Barack",OH,Ohio,2940044,Democratic
+2008_OH,2008,"McCain, John",OH,Ohio,2677820,Republican
+2008_OH,2008,"Nader, Ralph",OH,Ohio,42337,Independent
+2008_OH,2008,"Barr, Bob",OH,Ohio,19917,Libertarian
+2008_OH,2008,"Baldwin, Chuck",OH,Ohio,12565,Constitution
+2008_OH,2008,"McKinney, Cynthia",OH,Ohio,8518,Green
+2008_OH,2008,"Duncan, Richard",OH,Ohio,3905,Independent
+2008_OH,2008,"Moore, Brian",OH,Ohio,2735,Socialist Party USA
+2008_OH,2008,"Allen, Donald K.",OH,Ohio,212,Write-In
+2008_OH,2008,"Keyes, Alan L.",OH,Ohio,160,Write-In
+2008_OH,2008,"Schriner, Joe",OH,Ohio,71,Write-In
+2008_OH,2008,"Robertson, Platt",OH,Ohio,63,Write-In
+2008_OH,2008,"Allen, Jonathan",OH,Ohio,2,Write-In
+2008_OH,2008,"Germalic, James R.",OH,Ohio,1,Write-In
+2008_OK,2008,"McCain, John",OK,Oklahoma,960165,Republican
+2008_OK,2008,"Obama, Barack",OK,Oklahoma,502496,Democratic
+2008_OR,2008,"Obama, Barack",OR,Oregon,1037291,Democratic
+2008_OR,2008,"McCain, John",OR,Oregon,738475,Republican
+2008_OR,2008,"Nader, Ralph",OR,Oregon,18614,Peace
+2008_OR,2008,"Baldwin, Chuck",OR,Oregon,7693,Constitution
+2008_OR,2008,"Barr, Bob",OR,Oregon,7635,Libertarian
+2008_OR,2008,"McKinney, Cynthia",OR,Oregon,4543,Pacific Green
+2008_PA,2008,"Obama, Barack",PA,Pennsylvania,3276363,Democratic
+2008_PA,2008,"McCain, John",PA,Pennsylvania,2655885,Republican
+2008_PA,2008,"Nader, Ralph",PA,Pennsylvania,42977,Independent
+2008_PA,2008,"Barr, Bob",PA,Pennsylvania,19912,Libertarian
+2008_PA,2008,"Clinton, Hillary",PA,Pennsylvania,5014,Write-In
+2008_PA,2008,"Paul, Ron",PA,Pennsylvania,3849,Write-In
+2008_PA,2008,"Baldwin, Chuck",PA,Pennsylvania,1092,Write-In
+2008_RI,2008,"Obama, Barack",RI,Rhode Island,296571,Democratic
+2008_RI,2008,"McCain, John",RI,Rhode Island,165391,Republican
+2008_RI,2008,"Nader, Ralph",RI,Rhode Island,4829,Independent
+2008_RI,2008,"Barr, Bob",RI,Rhode Island,1382,Libertarian
+2008_RI,2008,"McKinney, Cynthia",RI,Rhode Island,797,Green
+2008_RI,2008,"Baldwin, Chuck",RI,Rhode Island,675,Constitution
+2008_RI,2008,"Clinton, Hillary",RI,Rhode Island,655,Write-In
+2008_RI,2008,"Paul, Ron",RI,Rhode Island,472,Write-In
+2008_RI,2008,"La Riva, Gloria",RI,Rhode Island,122,Socialism and Liberation Party
+2008_RI,2008,"No Vote,",RI,Rhode Island,43,Write-In
+2008_RI,2008,"Huckabee, Mike",RI,Rhode Island,34,Write-In
+2008_RI,2008,"Romney, Mitt",RI,Rhode Island,25,Write-In
+2008_RI,2008,"Gore, Al",RI,Rhode Island,15,Write-In
+2008_RI,2008,"Powell, Colin",RI,Rhode Island,14,Write-In
+2008_RI,2008,"Mouse, Mickey",RI,Rhode Island,11,Write-In
+2008_RI,2008,"None of Above,",RI,Rhode Island,11,Write-In
+2008_RI,2008,"Colbert, Stephen",RI,Rhode Island,8,Write-In
+2008_RI,2008,"Jesus,",RI,Rhode Island,7,Write-In
+2008_RI,2008,"Bloomberg, Michael",RI,Rhode Island,6,Write-In
+2008_RI,2008,"Clinton, Bill",RI,Rhode Island,6,Write-In
+2008_RI,2008,"Cianci, Buddy",RI,Rhode Island,5,Write-In
+2008_RI,2008,"Keyes, Alan",RI,Rhode Island,5,Write-In
+2008_RI,2008,"Kucinich, Dennis",RI,Rhode Island,5,Write-In
+2008_RI,2008,"Plumber, Joe the",RI,Rhode Island,5,Write-In
+2008_RI,2008,"Ventura, Jessie",RI,Rhode Island,5,Write-In
+2008_SC,2008,"McCain, John",SC,South Carolina,1034896,Republican
+2008_SC,2008,"Obama, Barack",SC,South Carolina,862449,Democratic
+2008_SC,2008,"Barr, Bob",SC,South Carolina,7283,Libertarian
+2008_SC,2008,"Baldwin, Chuck",SC,South Carolina,6827,Constitution
+2008_SC,2008,"Nader, Ralph",SC,South Carolina,5053,Petition
+2008_SC,2008,"McKinney, Cynthia",SC,South Carolina,4461,Green
+2008_SD,2008,"McCain, John",SD,South Dakota,203054,Republican
+2008_SD,2008,"Obama, Barack",SD,South Dakota,170924,Democratic
+2008_SD,2008,"Nader, Ralph",SD,South Dakota,4267,Independent
+2008_SD,2008,"Baldwin, Chuck",SD,South Dakota,1895,Constitution
+2008_SD,2008,"Barr, Bob",SD,South Dakota,1835,Independent
+2008_TN,2008,"McCain, John",TN,Tennessee,1479178,Republican
+2008_TN,2008,"Obama, Barack",TN,Tennessee,1087437,Democratic
+2008_TN,2008,"Nader, Ralph",TN,Tennessee,11560,Independent
+2008_TN,2008,"Barr, Bob",TN,Tennessee,8547,Independent
+2008_TN,2008,"Baldwin, Chuck",TN,Tennessee,8191,Independent
+2008_TN,2008,"McKinney, Cynthia",TN,Tennessee,2499,Write-In
+2008_TN,2008,"Moore, Brian",TN,Tennessee,1326,Independent
+2008_TN,2008,"Jay, Charles",TN,Tennessee,1011,Independent
+2008_TX,2008,"McCain, John",TX,Texas,4479328,Republican
+2008_TX,2008,"Obama, Barack",TX,Texas,3528633,Democratic
+2008_TX,2008,"Barr, Bob",TX,Texas,56116,Libertarian
+2008_TX,2008,"Nader, Ralph",TX,Texas,5751,Write-In
+2008_TX,2008,"Baldwin, Chuck",TX,Texas,5708,Write-In
+2008_TX,2008,"Keyes, Alan",TX,Texas,895,Write-In
+2008_TX,2008,"McKinney, Cynthia",TX,Texas,909,Write-In
+2008_TX,2008,"Hill, Thaddaus",TX,Texas,216,Write-In
+2008_TX,2008,"Moore, Brian",TX,Texas,135,Write-In
+2008_TX,2008,"Allen, Jonathan",TX,Texas,104,Write-In
+2008_UT,2008,"McCain, John",UT,Utah,596030,Republican
+2008_UT,2008,"Obama, Barack",UT,Utah,327670,Democratic
+2008_UT,2008,"Baldwin, Charles O. ""Chuck""",UT,Utah,12012,Constitution
+2008_UT,2008,"Nader, Ralph",UT,Utah,8416,Unaffiliated
+2008_UT,2008,"Barr, Bob",UT,Utah,6966,Libertarian
+2008_UT,2008,"McKinney, Cynthia",UT,Utah,982,Unaffiliated
+2008_UT,2008,"La Riva, Gloria",UT,Utah,262,Unaffiliated
+2008_UT,2008,"Keyes, Alan",UT,Utah,25,Write-In
+2008_UT,2008,"Moore, Frank",UT,Utah,3,Write-In
+2008_UT,2008,"Allen, Jonathan",UT,Utah,2,Write-In
+2008_UT,2008,"Jay, Charles",UT,Utah,1,Write-In
+2008_UT,2008,"Sponheim, David Jon",UT,Utah,1,Write-In
+2008_VT,2008,"Obama, Barack",VT,Vermont,219262,Democratic
+2008_VT,2008,"McCain, John",VT,Vermont,98974,Republican
+2008_VT,2008,"Nader, Ralph",VT,Vermont,3339,Independent
+2008_VT,2008,"Barr, Bob",VT,Vermont,1067,Libertarian
+2008_VT,2008,"Baldwin, Chuck",VT,Vermont,500,Constitution
+2008_VT,2008,"Calero, Roger",VT,Vermont,150,Socialist Workers Party
+2008_VT,2008,"La Riva, Gloria",VT,Vermont,149,Socialism and Liberation Party
+2008_VT,2008,"Moore, Brian",VT,Vermont,141,Liberty Union
+2008_VT,2008,"McKinney, Cynthia",VT,Vermont,66,Write-In
+2008_VA,2008,"Obama, Barack",VA,Virginia,1959532,Democratic
+2008_VA,2008,"McCain, John",VA,Virginia,1725005,Republican
+2008_VA,2008,"Nader, Ralph",VA,Virginia,11483,Independent
+2008_VA,2008,"Barr, Bob",VA,Virginia,11067,Libertarian
+2008_VA,2008,"Baldwin, Chuck",VA,Virginia,7474,Independent Green Party
+2008_VA,2008,"McKinney, Cynthia",VA,Virginia,2344,Green
+2008_WA,2008,"Obama, Barack",WA,Washington,1750848,Democratic
+2008_WA,2008,"McCain, John",WA,Washington,1229216,Republican
+2008_WA,2008,"Nader, Ralph",WA,Washington,29489,Independent
+2008_WA,2008,"Barr, Bob",WA,Washington,12728,Libertarian
+2008_WA,2008,"Baldwin, Chuck",WA,Washington,9432,Constitution
+2008_WA,2008,"McKinney, Cynthia",WA,Washington,3819,Green
+2008_WA,2008,"La Riva, Gloria",WA,Washington,705,Socialism and Liberation Party
+2008_WA,2008,"Harris, James E.",WA,Washington,641,Socialist Workers Party
+2008_WV,2008,"McCain, John Sidney, III",WV,West Virginia,397466,Republican
+2008_WV,2008,"Obama, Barack Hussein",WV,West Virginia,303857,Democratic
+2008_WV,2008,"Nader, Ralph",WV,West Virginia,7219,No Affiliation
+2008_WV,2008,"Baldwin, Charles Obadiah",WV,West Virginia,2465,Constitution
+2008_WV,2008,"McKinney, Cynthia Ann",WV,West Virginia,2355,Mountain Party
+2008_WV,2008,"Claus, Santa",WV,West Virginia,59,Write-In
+2008_WV,2008,"Rice, David L.",WV,West Virginia,18,Write-In
+2008_WV,2008,"Allen, Donald K.",WV,West Virginia,4,Write-In
+2008_WV,2008,"Brown, Robert",WV,West Virginia,3,Write-In
+2008_WV,2008,"Railey, Charles G. ""Bud""",WV,West Virginia,3,Write-In
+2008_WV,2008,"Hobbs, Ron",WV,West Virginia,1,Write-In
+2008_WV,2008,"Moore, Frank",WV,West Virginia,1,Write-In
+2008_WI,2008,"Obama, Barack",WI,Wisconsin,1677211,Democratic
+2008_WI,2008,"McCain, John",WI,Wisconsin,1262393,Republican
+2008_WI,2008,"Nader, Ralph",WI,Wisconsin,17605,Independent
+2008_WI,2008,"Barr, Bob",WI,Wisconsin,8858,Libertarian
+2008_WI,2008,"Baldwin, Chuck",WI,Wisconsin,5072,Independent
+2008_WI,2008,"McKinney, Cynthia",WI,Wisconsin,4216,Wisconsin Greens
+2008_WI,2008,"Wamboldt, Jeffrey J.",WI,Wisconsin,764,Independent
+2008_WI,2008,"Moore, Brian",WI,Wisconsin,540,Independent
+2008_WI,2008,"La Riva, Gloria",WI,Wisconsin,237,Independent
+2008_WY,2008,"McCain, John",WY,Wyoming,164958,Republican
+2008_WY,2008,"Obama, Barack",WY,Wyoming,82868,Democratic
+2008_WY,2008,"Nader, Ralph",WY,Wyoming,2525,Independent
+2008_WY,2008,"Barr, Bob",WY,Wyoming,1594,Libertarian
+2008_WY,2008,"Baldwin, Chuck",WY,Wyoming,1192,Independent

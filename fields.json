@@ -1,0 +1,26 @@
+{
+	"2012": { 
+		"filename": "2012pres.xls", 
+		"results":  "2012 Pres General Results",
+		"parties":  "2012 Party Labels",
+		"state": "STATE",
+		"fullname": "LAST NAME,  FIRST",
+		"general":  "GENERAL RESULTS"
+	},
+	"2008":  { 
+		"filename": "2008pres.xls",
+		"results":  "2008 PRES GENERAL RESULTS",
+		"parties":  "2008 Party Labels",
+		"fullname": "LAST NAME,  FIRST",
+		"state": "STATE",
+		"general":  "GENERAL RESULTS"
+	},
+	"2004": { 
+		"filename": "2004pres.xls",
+		"results":  "2004 PRES GENERAL RESULTS",
+		"parties":  "2004 Party Labels",
+		"fullname": "LAST NAME,  FIRST",
+		"state": "STATE",
+		"general":  "GENERAL RESULTS"
+	}
+}
